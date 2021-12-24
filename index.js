@@ -7,3 +7,5 @@ exports.handler = (event, context, callback) => {
         body: 'Dude, The time in Los Angeles is: ' + currentTime.toString(),
     });
 };
+
+#Checking
